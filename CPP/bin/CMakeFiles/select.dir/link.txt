@@ -1,1 +1,0 @@
-/usr/bin/c++    -rdynamic CMakeFiles/select.dir/select.cpp.o  -o select 
