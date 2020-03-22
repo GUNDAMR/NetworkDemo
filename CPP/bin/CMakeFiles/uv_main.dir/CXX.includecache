@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/raoxun/code/demo/CPP/uv.cpp
+stdio.h
+-
+unistd.h
+-
+string.h
+-
+stdlib.h
+-
+uv.h
+-
+

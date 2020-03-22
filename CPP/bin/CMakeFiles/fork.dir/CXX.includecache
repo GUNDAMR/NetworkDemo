@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/raoxun/code/demo/CPP/fork.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+sys/socket.h
+-
+sys/types.h
+-
+netinet/in.h
+-
+arpa/inet.h
+-
+

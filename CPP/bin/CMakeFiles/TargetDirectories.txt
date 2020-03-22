@@ -1,0 +1,8 @@
+/home/raoxun/code/demo/CPP/bin/CMakeFiles/rebuild_cache.dir
+/home/raoxun/code/demo/CPP/bin/CMakeFiles/edit_cache.dir
+/home/raoxun/code/demo/CPP/bin/CMakeFiles/server.dir
+/home/raoxun/code/demo/CPP/bin/CMakeFiles/uv_main.dir
+/home/raoxun/code/demo/CPP/bin/CMakeFiles/client.dir
+/home/raoxun/code/demo/CPP/bin/CMakeFiles/select.dir
+/home/raoxun/code/demo/CPP/bin/CMakeFiles/epoll.dir
+/home/raoxun/code/demo/CPP/bin/CMakeFiles/fork.dir
